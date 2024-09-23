@@ -1,1 +1,41 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/pages/category",
+      "destination": "/pages/category.html"
+    },
+    {
+      "source": "/pages/about",
+      "destination": "/pages/about.html"
+    },
+    {
+      "source": "/pages/contact",
+      "destination": "/pages/contact.html"
+    },
+    {
+      "source": "/pages/category/most-populer-apps-download",
+      "destination": "/pages/category/most-populer-apps-download.html"
+    },
+    {
+      "source": "/pages/category/most-populer-android-video-editing-apps",
+      "destination": "/pages/category/most-populer-android-video-editing-apps.html"
+    },
+    {
+      "source": "/blog/download-tiktok",
+      "destination": "/blog/download-tiktok.html"
+    },
+    {
+      "source": "/blog/instagram-bio",
+      "destination": "/blog/instagram-bio.html"
+    },
+    {
+      "source": "/blog/stylis-instagram-bio-for-girls",
+      "destination": "/blog/stylis-instagram-bio-for-girls.html"
+    }
+  ]
+}
 
